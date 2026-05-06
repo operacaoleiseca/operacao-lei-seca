@@ -1,0 +1,6 @@
+node_modules/
+pdf-gen/
+*.xlsx
+*.pdf
+.DS_Store
+Thumbs.db
